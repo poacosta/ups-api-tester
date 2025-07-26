@@ -1,0 +1,9 @@
+*.md
+*.txt
+*.json
+*.log
+*.MD
+__pycache__/
+.git/
+.venv/
+*.pyc

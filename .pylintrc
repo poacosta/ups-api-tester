@@ -1,0 +1,19 @@
+[MASTER]
+load-plugins=
+
+[MESSAGES CONTROL]
+disable=W1203, R0917, R0914, W0718, W1309, R0902, C0302, C0301, R0912, W0612, C0415
+
+[FORMAT]
+max-line-length=110
+indent-string='    '
+
+[BASIC]
+good-names=i,j,k,ex,Run,_,e,f
+
+[DESIGN]
+max-args=8
+max-locals=20
+max-returns=8
+max-branches=15
+max-statements=60
